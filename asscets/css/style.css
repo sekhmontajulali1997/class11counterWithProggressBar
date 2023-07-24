@@ -57,4 +57,5 @@ color: #fff;
     background-color: rgb(2, 83, 7);
     border-radius: 10px;
     height: 20px;
+    transition: 1.5s;
 }
